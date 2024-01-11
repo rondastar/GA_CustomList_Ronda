@@ -1,5 +1,7 @@
 ﻿namespace GA_CustomList_Ronda
 {
+    // Ronda Rutherford
+    // January 10, 2024
     internal class Program
     {
         static void Main(string[] args)
